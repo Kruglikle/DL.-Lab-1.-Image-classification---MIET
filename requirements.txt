@@ -1,0 +1,7 @@
+﻿# Основные библиотеки (при необходимости допишите)
+# torch
+# torchvision
+# numpy
+# pandas
+# matplotlib
+# scikit-learn
